@@ -340,6 +340,11 @@ void configureWebServer()
       return request->requestAuthentication();
   });
 
+  // --- User-Datenbank ---
+  server.on("/user/users.json", HTTP_GET, [](AsyncWebServerRequest *request) {
+  request->send(FILESYSTEM, "/user/users.json", "application/json");
+});
+
   // --- Download & Delete ---
   server.on("/file", HTTP_GET, [](AsyncWebServerRequest *request) {
     if (!checkUserWebAuth(request)) return request->requestAuthentication();

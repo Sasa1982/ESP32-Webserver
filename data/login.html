@@ -80,40 +80,68 @@
   </style>
 </head>
 <body>
-
   <div class="kasten-login">
-     <img src="/web/pictures/login_logo.png" alt="Logo" class="login-logo">
+    <img src="/web/pictures/login_logo.png" alt="Logo" class="login-logo">
     <h4>Login</h4>
     <h4>GM Flow 8</h4>
     <input id="input_name" type="text" placeholder="Benutzername" class="input-feld">
     <input id="input_passwort" type="password" placeholder="Passwort" class="input-feld">
+    <div class="meldung" id="meldung"></div>
     <button onclick="login_check()" class="btn-login">Login</button>
     <a href="http://www.gastromatix.de" class="footer-link">
       GASTROMATIX GmbH &amp; Co. KG
     </a>
   </div>
 
+  <script>
+    async function login_check()
+    {
+      const name = document.getElementById("input_name").value.trim();
+      const pin = document.getElementById("input_passwort").value.trim();
+      const meldung = document.getElementById("meldung");
+
+      meldung.textContent = "";
+
+      if (!name || !pin)
+      {
+        meldung.textContent = "Bitte Benutzername und Passwort eingeben.";
+        return;
+      }
+
+      try
+      {
+        const response = await fetch("user/users.json", { cache: "no-store" });
+        
+        if (!response.ok) throw new Error("Datei nicht gefunden.");
+
+        const data = await response.json();
+        const users = data.user || [];
+
+        // Benutzer finden (Name und Pin vergleichen)
+        const found = users.find(
+          u => u.name.toLowerCase() === name.toLowerCase() && u.pin === pin
+        );
+
+        if (found)
+        {
+          window.location.href = "menu.html";
+        }
+        else
+        {
+          meldung.textContent = "Zugangsdaten falsch!";
+        }
+      } 
+      catch (error)
+      {
+        console.error(error);
+        meldung.textContent = "Fehler beim Laden der Benutzerdaten.";
+      }
+    }
+
+    // Enter-Taste im Passwortfeld aktiviert Login
+    document.getElementById("input_passwort").addEventListener("keydown", e => {
+      if (e.key === "Enter") login_check();
+    });
+  </script>
 </body>
 </html>
-
-<script>
-  function login_check()
-  {
-    // Eingabe
-    var eingabe_benutzerName = document.getElementById("input_name").value;
-    var eingabe_passwort = document.getElementById("input_passwort").value;
-
-    // gespeicherte Einstellungen des Anwenders
-    var gespeichert_benutzerName = "Admin";
-    var gespeichert_passwort = "1111";
-
-    if((eingabe_benutzerName === gespeichert_benutzerName) && (eingabe_passwort === gespeichert_passwort))
-    {
-      window.location.href = "menu.html";
-    }
-    else
-    {
-      alert("Zugangsdaten falsch!");
-    }
-  }
-</script>
