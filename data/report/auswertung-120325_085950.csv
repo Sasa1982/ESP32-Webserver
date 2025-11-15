@@ -1,0 +1,583 @@
+Datum;Zeit;PLU;Name;Kategorie
+10.08.24;14:08:34;009;Sex on the Beach;0
+10.08.24;14:16:45;000;Moscow Mule;0
+10.08.24;14:17:05;000;Moscow Mule;0
+10.08.24;14:17:17;000;Moscow Mule;0
+10.08.24;14:20:57;000;Moscow Mule;0
+10.08.24;14:25:42;000;Moscow Mule;0
+10.08.24;14:26:20;000;Moscow Mule;0
+10.08.24;14:29:23;000;Moscow Mule;0
+10.08.24;14:30:50;000;Moscow Mule;0
+10.08.24;14:31:31;000;Moscow Mule;0
+10.08.24;14:31:58;003;Gruene Wiese;1
+10.08.24;14:50:37;009;Sex on the Beach;0
+10.08.24;14:52:38;009;Sex on the Beach;0
+10.08.24;14:54:19;000;Moscow Mule;0
+10.08.24;14:56:44;000;Moscow Mule;0
+10.08.24;18:11:47;003;Gruene Wiese;1
+10.08.24;18:12:41;009;Sex on the Beach;0
+10.08.24;18:13:43;003;Gruene Wiese;1
+10.08.24;18:18:23;003;Virgin Sex on the Beach;1
+10.08.24;18:20:20;010;Tequila Sunrise;0
+10.08.24;18:20:53;010;Tequila Sunrise;0
+10.08.24;18:22:32;009;Sex on the Beach;0
+10.08.24;18:23:12;000;Moscow Mule;0
+10.08.24;18:23:38;000;Moscow Mule;0
+10.08.24;18:23:58;000;Moscow Mule;0
+10.08.24;18:24:40;009;Sex on the Beach;0
+10.08.24;18:25:02;009;Sex on the Beach;0
+10.08.24;18:25:33;010;Tequila Sunrise;0
+10.08.24;18:27:13;003;Gruene Wiese;1
+10.08.24;18:27:46;010;Tequila Sunrise;0
+10.08.24;18:30:04;008;Planters Punch;0
+10.08.24;18:30:37;000;Moscow Mule;0
+10.08.24;18:31:32;006;Mexikaner;0
+10.08.24;18:32:05;006;Mexikaner;0
+10.08.24;18:32:56;004;Green Eyes;0
+10.08.24;18:35:51;001;Carribean Night;0
+10.08.24;18:39:14;005;Ice Man;0
+10.08.24;18:43:06;011;Wodka Cranberry;2
+10.08.24;18:44:23;000;Moscow Mule;0
+10.08.24;18:51:57;000;Moscow Mule;0
+10.08.24;19:07:37;004;Green Eyes;0
+10.08.24;19:08:18;000;Moscow Mule;0
+10.08.24;19:25:04;010;Tequila Sunrise;0
+10.08.24;19:25:59;000;Moscow Mule;0
+10.08.24;19:30:09;000;Moscow Mule;0
+10.08.24;19:30:38;009;Sex on the Beach;0
+10.08.24;19:34:39;000;Moscow Mule;0
+10.08.24;19:38:18;009;Sex on the Beach;0
+10.08.24;19:39:37;010;Tequila Sunrise;0
+10.08.24;19:40:07;010;Tequila Sunrise;0
+10.08.24;19:40:42;003;Virgin Sex on the Beach;1
+10.08.24;19:41:24;008;Planters Punch;0
+10.08.24;19:44:09;009;Sex on the Beach;0
+10.08.24;20:05:36;003;Caddys Dream;1
+10.08.24;20:06:46;000;Moscow Mule;0
+10.08.24;20:07:18;000;Moscow Mule;0
+10.08.24;20:07:56;000;Moscow Mule;0
+10.08.24;20:08:18;000;Moscow Mule;0
+10.08.24;20:35:23;010;Tequila Sunrise;0
+10.08.24;20:35:42;010;Tequila Sunrise;0
+10.08.24;20:36:19;000;Moscow Mule;0
+10.08.24;20:36:55;000;Moscow Mule;0
+10.08.24;20:37:07;000;Moscow Mule;0
+10.08.24;20:37:19;000;Moscow Mule;0
+10.08.24;20:39:22;002;Cuba Libre;2
+10.08.24;20:39:36;002;Cuba Libre;2
+10.08.24;20:40:26;009;Sex on the Beach;0
+10.08.24;20:44:06;010;Tequila Sunrise;0
+10.08.24;20:46:45;000;Moscow Mule;0
+10.08.24;20:48:29;000;Moscow Mule;0
+10.08.24;20:49:16;003;Caddys Dream;1
+10.08.24;20:50:07;000;Moscow Mule;0
+10.08.24;20:50:35;000;Moscow Mule;0
+10.08.24;20:50:47;000;Moscow Mule;0
+10.08.24;20:51:38;000;Moscow Mule;0
+10.08.24;20:52:10;000;Moscow Mule;0
+10.08.24;20:52:45;000;Moscow Mule;0
+10.08.24;20:53:34;000;Moscow Mule;0
+10.08.24;20:54:07;000;Moscow Mule;0
+10.08.24;20:58:00;003;Virgin Ice Man;1
+10.08.24;21:17:06;000;Moscow Mule;0
+10.08.24;21:21:20;003;Virgin Sex on the Beach;1
+10.08.24;21:22:28;000;Moscow Mule;0
+10.08.24;21:23:17;005;Ice Man;0
+10.08.24;21:24:21;002;Cuba Libre;2
+10.08.24;21:24:50;002;Cuba Libre;2
+10.08.24;21:25:13;002;Cuba Libre;2
+10.08.24;21:26:37;004;Green Eyes;0
+10.08.24;21:27:14;000;Moscow Mule;0
+10.08.24;21:28:25;000;Moscow Mule;0
+10.08.24;21:29:06;008;Planters Punch;0
+10.08.24;21:29:45;003;Virgin Ice Man;1
+10.08.24;21:38:23;010;Tequila Sunrise;0
+10.08.24;21:39:25;010;Tequila Sunrise;0
+10.08.24;21:40:03;010;Tequila Sunrise;0
+10.08.24;21:40:52;003;Caddys Dream;1
+10.08.24;21:41:44;000;Moscow Mule;0
+10.08.24;21:50:27;000;Moscow Mule;0
+10.08.24;21:55:55;000;Moscow Mule;0
+10.08.24;21:56:11;000;Moscow Mule;0
+10.08.24;21:58:27;000;Moscow Mule;0
+10.08.24;21:58:44;000;Moscow Mule;0
+10.08.24;21:59:27;000;Moscow Mule;0
+10.08.24;22:02:35;000;Moscow Mule;0
+10.08.24;22:05:53;008;Planters Punch;0
+10.08.24;22:09:11;003;Virgin Ice Man;1
+10.08.24;22:16:45;000;Moscow Mule;0
+10.08.24;22:23:02;000;Moscow Mule;0
+10.08.24;22:24:38;001;Carribean Night;0
+10.08.24;22:27:13;000;Moscow Mule;0
+10.08.24;22:27:57;000;Moscow Mule;0
+10.08.24;22:28:28;000;Moscow Mule;0
+10.08.24;22:30:56;000;Moscow Mule;0
+10.08.24;22:34:41;002;Cuba Libre;2
+10.08.24;22:39:16;003;Virgin Sex on the Beach;1
+10.08.24;22:43:53;000;Moscow Mule;0
+10.08.24;22:44:35;003;Caddys Dream;1
+10.08.24;22:45:14;011;Wodka Cranberry;2
+10.08.24;22:52:29;000;Moscow Mule;0
+10.08.24;22:53:05;000;Moscow Mule;0
+10.08.24;22:54:10;000;Moscow Mule;0
+10.08.24;22:54:32;010;Tequila Sunrise;0
+10.08.24;22:56:44;006;Mexikaner;0
+10.08.24;22:57:38;004;Green Eyes;0
+10.08.24;23:06:36;000;Moscow Mule;0
+10.08.24;23:15:40;000;Moscow Mule;0
+10.08.24;23:16:12;011;Wodka Cranberry;2
+10.08.24;23:19:08;000;Moscow Mule;0
+10.08.24;23:21:05;008;Planters Punch;0
+10.08.24;23:27:45;000;Moscow Mule;0
+10.08.24;23:28:05;000;Moscow Mule;0
+10.08.24;23:34:25;004;Green Eyes;0
+10.08.24;23:46:13;005;Ice Man;0
+10.08.24;23:48:53;004;Green Eyes;0
+10.08.24;23:49:36;010;Tequila Sunrise;0
+10.08.24;23:50:15;010;Tequila Sunrise;0
+10.08.24;23:50:46;010;Tequila Sunrise;0
+10.08.24;23:51:15;010;Tequila Sunrise;0
+10.08.24;23:59:00;000;Moscow Mule;0
+10.08.24;23:59:46;005;Ice Man;0
+11.08.24;00:19:37;000;Moscow Mule;0
+11.08.24;00:20:49;000;Moscow Mule;0
+11.08.24;00:21:51;007;Morning Sunrise;1
+11.08.24;00:24:48;007;Morning Sunrise;1
+11.08.24;00:25:19;000;Moscow Mule;0
+11.08.24;00:31:32;010;Tequila Sunrise;0
+11.08.24;00:32:47;010;Tequila Sunrise;0
+11.08.24;00:33:39;007;Morning Sunrise;1
+11.08.24;00:37:23;010;Tequila Sunrise;0
+11.08.24;00:43:02;010;Tequila Sunrise;0
+11.08.24;00:43:33;009;Sex on the Beach;0
+11.08.24;00:55:10;000;Moscow Mule;0
+11.08.24;00:55:21;000;Moscow Mule;0
+11.08.24;00:55:38;000;Moscow Mule;0
+11.08.24;00:55:58;000;Moscow Mule;0
+11.08.24;00:56:13;000;Moscow Mule;0
+11.08.24;01:07:09;007;Morning Sunrise;1
+11.08.24;01:11:07;000;Moscow Mule;0
+11.08.24;01:20:06;000;Moscow Mule;0
+11.08.24;01:20:19;000;Moscow Mule;0
+11.08.24;01:20:47;000;Moscow Mule;0
+11.08.24;01:35:21;000;Moscow Mule;0
+11.08.24;01:36:02;004;Green Eyes;0
+11.08.24;01:38:27;007;Morning Sunrise;1
+23.08.24;18:40:01;003;Gruene Wiese;1
+23.08.24;18:56:37;008;Planters Punch;0
+23.08.24;18:59:22;007;Morning Sunrise;1
+23.08.24;19:00:25;007;Morning Sunrise;1
+23.08.24;19:01:42;000;Moscow Mule;0
+23.08.24;19:03:01;009;Sex on the Beach;0
+23.08.24;19:04:25;003;Virgin Sex on the Beach;1
+23.08.24;19:04:40;003;Virgin Sex on the Beach;1
+23.08.24;19:04:57;010;Tequila Sunrise;0
+23.08.24;19:05:22;010;Tequila Sunrise;0
+23.08.24;19:06:11;008;Planters Punch;0
+23.08.24;19:07:08;000;Moscow Mule;0
+23.08.24;19:15:38;010;Tequila Sunrise;0
+23.08.24;19:16:32;000;Moscow Mule;0
+23.08.24;19:17:11;000;Moscow Mule;0
+23.08.24;19:17:47;000;Moscow Mule;0
+23.08.24;19:18:04;000;Moscow Mule;0
+23.08.24;19:19:30;000;Moscow Mule;0
+23.08.24;19:28:18;003;Virgin Sex on the Beach;1
+23.08.24;19:28:36;007;Morning Sunrise;1
+23.08.24;19:29:56;000;Moscow Mule;0
+23.08.24;19:30:41;009;Sex on the Beach;0
+23.08.24;19:31:27;009;Sex on the Beach;0
+23.08.24;19:31:41;009;Sex on the Beach;0
+23.08.24;19:32:25;009;Sex on the Beach;0
+23.08.24;19:32:38;009;Sex on the Beach;0
+23.08.24;19:32:55;009;Sex on the Beach;0
+23.08.24;19:33:43;003;Caddys Dream;1
+23.08.24;19:34:17;000;Moscow Mule;0
+23.08.24;19:35:07;008;Planters Punch;0
+23.08.24;19:35:51;000;Moscow Mule;0
+23.08.24;19:38:47;003;Gruene Wiese;1
+23.08.24;19:39:33;009;Sex on the Beach;0
+23.08.24;19:40:52;003;Virgin Sex on the Beach;1
+23.08.24;19:41:37;003;Virgin Sex on the Beach;1
+23.08.24;19:41:56;009;Sex on the Beach;0
+23.08.24;19:44:23;003;Virgin Sex on the Beach;1
+23.08.24;19:44:38;003;Virgin Sex on the Beach;1
+23.08.24;19:47:40;000;Moscow Mule;0
+23.08.24;19:48:32;003;Caddys Dream;1
+23.08.24;19:49:09;009;Sex on the Beach;0
+23.08.24;19:50:18;003;Virgin Sex on the Beach;1
+23.08.24;19:54:20;003;Virgin Sex on the Beach;1
+23.08.24;19:54:36;003;Virgin Sex on the Beach;1
+23.08.24;19:56:18;005;Ice Man;0
+23.08.24;19:57:20;001;Carribean Night;0
+23.08.24;19:58:09;010;Tequila Sunrise;0
+23.08.24;20:01:03;009;Sex on the Beach;0
+23.08.24;20:06:35;007;Morning Sunrise;1
+23.08.24;20:10:58;003;Gruene Wiese;1
+23.08.24;20:13:19;000;Moscow Mule;0
+23.08.24;20:14:48;003;Gruene Wiese;1
+23.08.24;20:16:50;000;Moscow Mule;0
+23.08.24;20:17:41;009;Sex on the Beach;0
+23.08.24;20:18:33;003;Virgin Sex on the Beach;1
+23.08.24;20:18:47;003;Virgin Sex on the Beach;1
+23.08.24;20:25:12;007;Morning Sunrise;1
+23.08.24;20:27:33;003;Caddys Dream;1
+23.08.24;20:29:12;005;Ice Man;0
+23.08.24;20:30:37;003;Virgin Sex on the Beach;1
+23.08.24;20:32:42;003;Virgin Ice Man;1
+23.08.24;20:36:51;009;Sex on the Beach;0
+23.08.24;20:43:17;009;Sex on the Beach;0
+23.08.24;20:43:32;009;Sex on the Beach;0
+23.08.24;20:44:27;010;Tequila Sunrise;0
+23.08.24;20:45:29;009;Sex on the Beach;0
+23.08.24;20:48:44;000;Moscow Mule;0
+23.08.24;20:49:32;010;Tequila Sunrise;0
+23.08.24;20:51:18;009;Sex on the Beach;0
+23.08.24;20:52:05;007;Morning Sunrise;1
+23.08.24;20:52:42;000;Moscow Mule;0
+23.08.24;20:53:13;000;Moscow Mule;0
+23.08.24;20:54:43;000;Moscow Mule;0
+23.08.24;20:55:21;000;Moscow Mule;0
+23.08.24;20:56:11;009;Sex on the Beach;0
+23.08.24;20:56:25;003;Virgin Sex on the Beach;1
+23.08.24;20:58:33;000;Moscow Mule;0
+23.08.24;20:58:53;000;Moscow Mule;0
+23.08.24;21:00:57;000;Moscow Mule;0
+23.08.24;21:02:11;000;Moscow Mule;0
+23.08.24;21:16:19;003;Caddys Dream;1
+23.08.24;21:16:38;010;Tequila Sunrise;0
+23.08.24;21:17:21;000;Moscow Mule;0
+23.08.24;21:18:16;000;Moscow Mule;0
+23.08.24;21:18:35;000;Moscow Mule;0
+23.08.24;21:19:57;010;Tequila Sunrise;0
+23.08.24;21:20:23;006;Mexikaner;0
+23.08.24;21:26:14;008;Planters Punch;0
+23.08.24;21:27:20;000;Moscow Mule;0
+23.08.24;21:29:48;002;Cuba Libre;2
+23.08.24;21:30:59;004;Green Eyes;0
+23.08.24;21:31:19;004;Green Eyes;0
+23.08.24;21:36:04;003;Caddys Dream;1
+23.08.24;21:39:36;001;Carribean Night;0
+23.08.24;21:43:10;010;Tequila Sunrise;0
+23.08.24;21:47:42;010;Tequila Sunrise;0
+23.08.24;21:49:10;002;Cuba Libre;2
+23.08.24;21:50:16;008;Planters Punch;0
+23.08.24;21:51:59;010;Tequila Sunrise;0
+23.08.24;21:52:17;010;Tequila Sunrise;0
+23.08.24;21:53:25;000;Moscow Mule;0
+23.08.24;21:56:48;000;Moscow Mule;0
+23.08.24;22:04:59;003;Virgin Sex on the Beach;1
+23.08.24;22:06:23;007;Morning Sunrise;1
+23.08.24;22:06:43;007;Morning Sunrise;1
+23.08.24;22:07:22;000;Moscow Mule;0
+23.08.24;22:08:41;004;Green Eyes;0
+23.08.24;22:12:45;000;Moscow Mule;0
+23.08.24;22:13:03;000;Moscow Mule;0
+23.08.24;22:16:31;007;Morning Sunrise;1
+23.08.24;22:21:36;002;Cuba Libre;2
+23.08.24;22:22:28;010;Tequila Sunrise;0
+23.08.24;22:29:16;000;Moscow Mule;0
+23.08.24;22:34:15;003;Virgin Sex on the Beach;1
+23.08.24;22:35:50;010;Tequila Sunrise;0
+23.08.24;22:45:16;007;Morning Sunrise;1
+23.08.24;22:45:38;000;Moscow Mule;0
+23.08.24;22:48:15;009;Sex on the Beach;0
+23.08.24;22:57:13;003;Virgin Ice Man;1
+23.08.24;23:07:25;003;Virgin Sex on the Beach;1
+23.08.24;23:07:38;003;Virgin Sex on the Beach;1
+23.08.24;23:31:28;010;Tequila Sunrise;0
+23.08.24;23:31:46;003;Caddys Dream;1
+24.08.24;00:18:56;008;Planters Punch;0
+24.08.24;00:19:09;008;Planters Punch;0
+24.08.24;01:26:56;008;Planters Punch;0
+30.08.24;17:53:58;009;Sex on the Beach;0
+30.08.24;17:59:11;009;Sex on the Beach;0
+30.08.24;18:00:04;006;Mexikaner;0
+30.08.24;18:03:32;011;Wodka Cranberry;2
+30.08.24;18:04:38;011;Wodka Cranberry;2
+30.08.24;18:09:00;003;Gruene Wiese;1
+30.08.24;18:12:12;003;Gruene Wiese;1
+30.08.24;18:12:32;003;Gruene Wiese;1
+30.08.24;18:14:05;009;Sex on the Beach;0
+30.08.24;18:14:50;006;Mexikaner;0
+30.08.24;18:15:10;006;Mexikaner;0
+30.08.24;18:15:44;007;Morning Sunrise;1
+30.08.24;18:16:22;001;Carribean Night;0
+30.08.24;18:19:06;007;Morning Sunrise;1
+30.08.24;18:19:46;003;Virgin Sex on the Beach;1
+30.08.24;18:22:42;009;Sex on the Beach;0
+30.08.24;18:22:56;010;Tequila Sunrise;0
+30.08.24;18:23:15;010;Tequila Sunrise;0
+30.08.24;18:28:39;000;Moscow Mule;0
+30.08.24;18:29:34;009;Sex on the Beach;0
+30.08.24;18:30:32;004;Green Eyes;0
+30.08.24;18:31:15;007;Morning Sunrise;1
+30.08.24;18:31:40;007;Morning Sunrise;1
+30.08.24;18:32:32;009;Sex on the Beach;0
+30.08.24;18:33:09;004;Green Eyes;0
+30.08.24;18:40:56;012;Wodka O;2
+30.08.24;18:41:46;001;Carribean Night;0
+30.08.24;18:42:24;004;Green Eyes;0
+30.08.24;18:44:16;000;Moscow Mule;0
+30.08.24;18:51:07;000;Moscow Mule;0
+30.08.24;18:51:57;005;Ice Man;0
+30.08.24;18:52:59;000;Moscow Mule;0
+30.08.24;18:54:09;000;Moscow Mule;0
+30.08.24;18:55:08;000;Moscow Mule;0
+30.08.24;19:08:56;000;Moscow Mule;0
+30.08.24;19:19:54;007;Morning Sunrise;1
+30.08.24;19:20:13;007;Morning Sunrise;1
+30.08.24;19:29:53;003;Gruene Wiese;1
+30.08.24;19:30:13;003;Gruene Wiese;1
+30.08.24;19:32:29;009;Sex on the Beach;0
+30.08.24;19:33:10;000;Moscow Mule;0
+30.08.24;19:33:53;010;Tequila Sunrise;0
+30.08.24;19:35:21;000;Moscow Mule;0
+30.08.24;19:39:08;003;Virgin Ice Man;1
+30.08.24;19:39:45;003;Gruene Wiese;1
+30.08.24;19:45:02;007;Morning Sunrise;1
+30.08.24;19:45:47;010;Tequila Sunrise;0
+30.08.24;19:47:46;003;Gruene Wiese;1
+30.08.24;19:48:07;003;Gruene Wiese;1
+30.08.24;19:48:59;003;Virgin Sex on the Beach;1
+30.08.24;19:57:33;000;Moscow Mule;0
+30.08.24;20:00:23;000;Moscow Mule;0
+30.08.24;20:04:13;009;Sex on the Beach;0
+30.08.24;20:07:00;000;Moscow Mule;0
+30.08.24;20:07:58;011;Wodka Cranberry;2
+30.08.24;20:09:51;000;Moscow Mule;0
+30.08.24;20:10:09;000;Moscow Mule;0
+30.08.24;20:13:05;000;Moscow Mule;0
+30.08.24;20:14:07;005;Ice Man;0
+30.08.24;20:16:37;000;Moscow Mule;0
+30.08.24;20:17:47;000;Moscow Mule;0
+30.08.24;20:18:00;000;Moscow Mule;0
+30.08.24;20:19:23;001;Carribean Night;0
+30.08.24;20:19:41;001;Carribean Night;0
+30.08.24;20:20:08;001;Carribean Night;0
+30.08.24;20:20:57;000;Moscow Mule;0
+30.08.24;20:21:13;000;Moscow Mule;0
+30.08.24;20:21:48;000;Moscow Mule;0
+30.08.24;20:27:29;010;Tequila Sunrise;0
+30.08.24;20:34:18;000;Moscow Mule;0
+30.08.24;20:34:51;000;Moscow Mule;0
+30.08.24;20:46:54;003;Caddys Dream;1
+30.08.24;20:47:48;003;Virgin Ice Man;1
+30.08.24;20:51:54;003;Gruene Wiese;1
+30.08.24;20:55:43;000;Moscow Mule;0
+30.08.24;20:56:42;007;Morning Sunrise;1
+30.08.24;20:57:27;009;Sex on the Beach;0
+30.08.24;20:58:56;000;Moscow Mule;0
+30.08.24;21:01:07;000;Moscow Mule;0
+30.08.24;21:01:22;000;Moscow Mule;0
+30.08.24;21:03:42;009;Sex on the Beach;0
+30.08.24;21:06:06;011;Wodka Cranberry;2
+30.08.24;21:06:24;000;Moscow Mule;0
+30.08.24;21:07:21;005;Ice Man;0
+30.08.24;21:16:08;007;Morning Sunrise;1
+30.08.24;21:16:46;000;Moscow Mule;0
+30.08.24;21:17:34;005;Ice Man;0
+30.08.24;21:18:16;000;Moscow Mule;0
+30.08.24;21:18:31;000;Moscow Mule;0
+30.08.24;21:22:51;000;Moscow Mule;0
+30.08.24;21:23:07;000;Moscow Mule;0
+30.08.24;21:24:51;000;Moscow Mule;0
+30.08.24;21:25:52;000;Moscow Mule;0
+30.08.24;21:27:05;010;Tequila Sunrise;0
+30.08.24;21:36:59;000;Moscow Mule;0
+30.08.24;21:39:55;009;Sex on the Beach;0
+30.08.24;21:40:10;003;Virgin Sex on the Beach;1
+30.08.24;21:41:40;010;Tequila Sunrise;0
+30.08.24;21:42:02;002;Cuba Libre;2
+30.08.24;21:43:34;000;Moscow Mule;0
+30.08.24;21:44:24;000;Moscow Mule;0
+30.08.24;21:44:36;000;Moscow Mule;0
+30.08.24;21:46:07;007;Morning Sunrise;1
+30.08.24;21:51:55;006;Mexikaner;0
+30.08.24;21:52:58;005;Ice Man;0
+30.08.24;22:03:02;002;Cuba Libre;2
+30.08.24;22:03:23;000;Moscow Mule;0
+30.08.24;22:04:50;011;Wodka Cranberry;2
+30.08.24;22:06:59;000;Moscow Mule;0
+30.08.24;22:07:41;003;Caddys Dream;1
+30.08.24;22:09:39;002;Cuba Libre;2
+30.08.24;22:11:00;000;Moscow Mule;0
+30.08.24;22:13:20;000;Moscow Mule;0
+30.08.24;22:14:05;000;Moscow Mule;0
+30.08.24;22:14:18;000;Moscow Mule;0
+30.08.24;22:15:14;003;Virgin Ice Man;1
+30.08.24;22:20:50;000;Moscow Mule;0
+30.08.24;22:33:28;001;Carribean Night;0
+30.08.24;22:33:46;001;Carribean Night;0
+30.08.24;22:34:03;001;Carribean Night;0
+30.08.24;22:34:55;000;Moscow Mule;0
+30.08.24;22:35:43;009;Sex on the Beach;0
+30.08.24;22:39:09;003;Virgin Sex on the Beach;1
+30.08.24;22:39:25;003;Virgin Sex on the Beach;1
+30.08.24;22:40:41;007;Morning Sunrise;1
+30.08.24;22:52:23;003;Virgin Ice Man;1
+30.08.24;22:53:15;006;Mexikaner;0
+30.08.24;22:54:34;000;Moscow Mule;0
+30.08.24;22:56:12;002;Cuba Libre;2
+30.08.24;23:06:35;000;Moscow Mule;0
+30.08.24;23:06:56;000;Moscow Mule;0
+30.08.24;23:09:57;000;Moscow Mule;0
+30.08.24;23:13:04;009;Sex on the Beach;0
+30.08.24;23:23:05;000;Moscow Mule;0
+30.08.24;23:23:21;000;Moscow Mule;0
+30.08.24;23:27:34;006;Mexikaner;0
+30.08.24;23:31:17;000;Moscow Mule;0
+30.08.24;23:40:15;002;Cuba Libre;2
+30.08.24;23:41:01;002;Cuba Libre;2
+30.08.24;23:49:30;009;Sex on the Beach;0
+30.08.24;23:51:42;000;Moscow Mule;0
+30.08.24;23:52:49;009;Sex on the Beach;0
+31.08.24;00:01:22;003;Virgin Sex on the Beach;1
+31.08.24;00:01:42;000;Moscow Mule;0
+31.08.24;00:02:01;000;Moscow Mule;0
+31.08.24;00:03:55;007;Morning Sunrise;1
+31.08.24;00:05:52;003;Gruene Wiese;1
+31.08.24;00:33:51;000;Moscow Mule;0
+31.08.24;00:36:38;009;Sex on the Beach;0
+31.08.24;00:36:56;009;Sex on the Beach;0
+31.08.24;00:40:52;009;Sex on the Beach;0
+31.08.24;19:18:12;009;Sex on the Beach;0
+31.08.24;19:18:51;009;Sex on the Beach;0
+31.08.24;19:21:26;000;Moscow Mule;0
+31.08.24;19:26:24;007;Morning Sunrise;1
+31.08.24;19:28:50;009;Sex on the Beach;0
+31.08.24;19:29:18;009;Sex on the Beach;0
+31.08.24;19:31:09;000;Moscow Mule;0
+31.08.24;19:39:55;000;Moscow Mule;0
+31.08.24;19:50:31;006;Mexikaner;0
+31.08.24;19:50:52;006;Mexikaner;0
+31.08.24;20:05:02;009;Sex on the Beach;0
+31.08.24;20:08:29;003;Gruene Wiese;1
+31.08.24;20:09:15;003;Caddys Dream;1
+31.08.24;20:10:11;000;Moscow Mule;0
+31.08.24;20:10:24;000;Moscow Mule;0
+31.08.24;20:15:55;003;Caddys Dream;1
+31.08.24;20:16:10;003;Caddys Dream;1
+31.08.24;20:18:09;003;Caddys Dream;1
+31.08.24;20:18:44;000;Moscow Mule;0
+31.08.24;20:19:52;002;Cuba Libre;2
+31.08.24;20:27:41;000;Moscow Mule;0
+31.08.24;20:28:38;003;Virgin Sex on the Beach;1
+31.08.24;20:29:17;001;Carribean Night;0
+31.08.24;20:45:00;000;Moscow Mule;0
+31.08.24;21:06:54;005;Ice Man;0
+31.08.24;21:07:34;003;Virgin Ice Man;1
+31.08.24;21:16:14;009;Sex on the Beach;0
+31.08.24;21:27:06;000;Moscow Mule;0
+31.08.24;21:29:17;003;Virgin Sex on the Beach;1
+31.08.24;21:29:33;000;Moscow Mule;0
+31.08.24;21:31:15;003;Virgin Sex on the Beach;1
+31.08.24;21:44:40;010;Tequila Sunrise;0
+31.08.24;21:45:12;010;Tequila Sunrise;0
+31.08.24;21:52:41;000;Moscow Mule;0
+31.08.24;21:52:41;000;Moscow Mule;0
+31.08.24;21:53:46;007;Morning Sunrise;1
+31.08.24;21:54:05;007;Morning Sunrise;1
+31.08.24;22:08:23;000;Moscow Mule;0
+31.08.24;22:10:37;000;Moscow Mule;0
+31.08.24;22:13:54;009;Sex on the Beach;0
+31.08.24;22:14:54;010;Tequila Sunrise;0
+31.08.24;22:16:15;000;Moscow Mule;0
+31.08.24;22:16:28;000;Moscow Mule;0
+31.08.24;22:19:10;010;Tequila Sunrise;0
+31.08.24;22:39:35;000;Moscow Mule;0
+31.08.24;22:39:49;000;Moscow Mule;0
+31.08.24;22:40:01;000;Moscow Mule;0
+31.08.24;22:41:58;001;Carribean Night;0
+31.08.24;22:42:55;010;Tequila Sunrise;0
+31.08.24;22:44:30;000;Moscow Mule;0
+31.08.24;22:45:38;010;Tequila Sunrise;0
+31.08.24;22:59:42;002;Cuba Libre;2
+31.08.24;22:59:58;010;Tequila Sunrise;0
+31.08.24;23:00:54;000;Moscow Mule;0
+31.08.24;23:02:07;000;Moscow Mule;0
+31.08.24;23:04:56;000;Moscow Mule;0
+31.08.24;23:05:41;000;Moscow Mule;0
+31.08.24;23:09:07;000;Moscow Mule;0
+31.08.24;23:11:23;002;Cuba Libre;2
+31.08.24;23:11:35;002;Cuba Libre;2
+31.08.24;23:15:04;011;Wodka Cranberry;2
+31.08.24;23:15:40;000;Moscow Mule;0
+31.08.24;23:32:01;000;Moscow Mule;0
+31.08.24;23:33:16;002;Cuba Libre;2
+31.08.24;23:33:50;000;Moscow Mule;0
+31.08.24;23:34:36;000;Moscow Mule;0
+31.08.24;23:35:43;009;Sex on the Beach;0
+31.08.24;23:35:55;009;Sex on the Beach;0
+31.08.24;23:36:12;009;Sex on the Beach;0
+31.08.24;23:36:58;012;Wodka O;2
+31.08.24;23:40:43;005;Ice Man;0
+31.08.24;23:41:02;005;Ice Man;0
+31.08.24;23:42:50;011;Wodka Cranberry;2
+31.08.24;23:44:32;006;Mexikaner;0
+31.08.24;23:45:39;006;Mexikaner;0
+31.08.24;23:48:49;002;Cuba Libre;2
+31.08.24;23:50:29;000;Moscow Mule;0
+31.08.24;23:54:33;003;Virgin Ice Man;1
+31.08.24;23:55:12;009;Sex on the Beach;0
+31.08.24;23:55:42;006;Mexikaner;0
+31.08.24;23:56:44;008;Planters Punch;0
+01.09.24;00:15:05;009;Sex on the Beach;0
+01.09.24;00:15:49;009;Sex on the Beach;0
+01.09.24;00:17:49;005;Ice Man;0
+01.09.24;00:18:06;005;Ice Man;0
+01.09.24;00:30:29;002;Cuba Libre;2
+01.09.24;00:31:39;000;Moscow Mule;0
+01.09.24;00:32:33;000;Moscow Mule;0
+01.09.24;00:33:38;000;Moscow Mule;0
+01.09.24;00:35:50;000;Moscow Mule;0
+01.09.24;00:40:05;012;Wodka O;2
+01.09.24;00:41:17;002;Cuba Libre;2
+01.09.24;00:42:31;010;Tequila Sunrise;0
+01.09.24;00:42:50;010;Tequila Sunrise;0
+01.09.24;00:50:34;000;Moscow Mule;0
+01.09.24;00:53:37;000;Moscow Mule;0
+01.09.24;00:54:41;008;Planters Punch;0
+01.09.24;00:55:27;000;Moscow Mule;0
+01.09.24;01:01:51;002;Cuba Libre;2
+01.09.24;01:16:32;010;Tequila Sunrise;0
+01.09.24;01:16:50;010;Tequila Sunrise;0
+01.09.24;01:28:37;000;Moscow Mule;0
+01.09.24;01:29:28;000;Moscow Mule;0
+01.09.24;02:17:06;002;Cuba Libre;2
+01.09.24;02:18:20;002;Cuba Libre;2
+01.09.24;03:06:40;005;Ice Man;0
+01.09.24;03:09:01;002;Cuba Libre;2
+01.09.24;03:09:14;002;Cuba Libre;2
+01.09.24;03:11:02;002;Cuba Libre;2
+01.09.24;03:11:29;002;Cuba Libre;2
+01.09.24;03:14:23;002;Cuba Libre;2
+01.09.24;04:08:37;000;Moscow Mule;0
+30.09.24;18:17:41;009;Sex on the Beach;0
+01.10.24;17:48:57;009;Sex on the Beach;0
+01.10.24;18:03:03;009;Sex on the Beach;0
+04.10.24;13:39:40;008;Planters Punch;0
+06.12.24;16:34:30;009;Sex on the Beach;0
+06.12.24;16:34:57;009;Sex on the Beach;0
+06.12.24;16:40:27;009;Sex on the Beach;0
+06.12.24;19:52:33;000;Moscow Mule;0
+06.12.24;19:56:52;009;Sex on the Beach;0
+06.12.24;20:35:04;000;Long Island Ice Tea;2
+06.12.24;20:38:46;004;Green Eyes;0
+06.12.24;20:54:15;000;Long Island Ice Tea;2
+06.12.24;20:58:24;000;Pina Colada;0
+06.12.24;21:08:09;000;Pina Colada;0
+06.12.24;21:18:23;008;Planters Punch;0
+06.12.24;22:34:14;000;Long Island Ice Tea;2
+11.03.25;17:46:18;0;Long island iced tea;0
+12.03.25;08:50:43;0;Wodka 2cl;3
+12.03.25;08:50:50;0;Wodka 2cl;3
+12.03.25;08:50:54;0;Wodka 2cl;3
+12.03.25;08:50:58;0;Wodka 2cl;3
+12.03.25;08:51:19;0;Wodka 2cl;3
+12.03.25;08:53:06;0;Rum weiss 2cl;3
+12.03.25;08:57:19;0;Ananas 100 ml;4
+12.03.25;08:57:33;0;Ananas 100 ml;4
+12.03.25;08:57:47;0;Orange 100 ml;4
+12.03.25;08:58:00;0;Orange 100 ml;4
+12.03.25;08:58:14;0;Maracuja 100 ml;4
+12.03.25;08:58:23;0;Maracuja 100 ml;4
